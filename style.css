@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.w-100-height {
+  height: 90vh;
+  width: 100%;
+}
+.carousel-item {
+  min-height: 300px;
+}
+.carousel-caption {
+  text-align: left !important;
+  z-index: 2;
+  margin-bottom: 200px;
+  & h5 {
+    text-transform: uppercase;
+    font-size: 40px;
+  }
+}
+.carousel-inner::before {
+  content: "";
+  top: 0;
+  position: absolute;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+.carosel1 div i:hover {
+  color: black !important;
+  scale: 1.1;
+}
+.price p {
+  font-size: 1.3em;
+  font-weight: bold !important;
+}
+#Blog {
+  margin-top: 100px !important;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
