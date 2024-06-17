@@ -8,13 +8,7 @@ A responsive Salord Real Estate website project developed using HTML, CSS, and B
 - CSS
 - Bootstrap
 
-## GIF
 
-![Salord Website](images/Salord-GIF.gif)
-
-## Link
-
-[Visit the Salord Website](https://662ceca97232b2cc9409316c--lucky-chebakia-9998d1.netlify.app/)
 
 ## Description
 
@@ -32,8 +26,12 @@ This project is a responsive real estate website created using HTML, CSS, and Bo
    ```bash
    git clone https://github.com/yourusername/salord-website.git
 Open the index.html file in your browser to view the website.
-Contribution
-Feel free to contribute to this project by creating a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-License
-This project is open source and available under the MIT License.
+
+## GIF
+
+![Salord Website](images/Salord-GIF.gif)
+
+## Link
+
+[Visit the Salord Website](https://662ceca97232b2cc9409316c--lucky-chebakia-9998d1.netlify.app/)
