@@ -1,18 +1,14 @@
 # Salord Website
 
-A responsive Salord Real Estate website project developed using HTML, CSS, and Bootstrap.
+## Description
+
+This project is a responsive real estate website created using HTML, CSS, and Bootstrap. It features a clean and professional design, providing information about available properties, services, and contact details.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - Bootstrap
-
-
-
-## Description
-
-This project is a responsive real estate website created using HTML, CSS, and Bootstrap. It features a clean and professional design, providing information about available properties, services, and contact details.
 
 ## Features
 
@@ -24,8 +20,9 @@ This project is a responsive real estate website created using HTML, CSS, and Bo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/salord-website.git
-Open the index.html file in your browser to view the website.
+   git clone https://github.com/KamilErdogmus/BS-Salord.git
+   
+2. Open the index.html file in your browser to view the website.
 
 
 ## GIF
